@@ -8,12 +8,14 @@
 Installation: Before playing the game, ensure that you have Python installed on your computer. You can download Python from the official website.
 
 ### Clone the Repository:
+
 Clone or download this repository to your local machine using the following command:
 Copy code
 git clone https://github.com/Vyshakh01/snake.git  .
 ### Run the Game:
+
 Open a terminal or command prompt, navigate to the directory where you downloaded the repository, and run the game using the following command:
-Copy code
+Copy code:
 python snake_game.py
 
 
