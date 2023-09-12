@@ -16,7 +16,7 @@ git clone https://github.com/Vyshakh01/snake.git  .
 
 Open a terminal or command prompt, navigate to the directory where you downloaded the repository, and run the game using the following command:
 Copy code:
-python snake_game.py
+python snake.py
 
 
 ## Controls:
