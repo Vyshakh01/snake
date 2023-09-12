@@ -4,6 +4,7 @@
  In this game, you control a snake that moves around the screen, eating food to grow longer. 
  The goal is to keep the snake alive as long as possible without running into the walls or colliding with itself.
 
+
 ## How to Play
 Installation: Before playing the game, ensure that you have Python installed on your computer. You can download Python from the official website.
 
